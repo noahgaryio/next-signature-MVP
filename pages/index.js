@@ -12,9 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing pages/index.js
-        </p>
+        <h1 class="text-3xl font-bold underline">
+          Hello world!
+        </h1>
       </main>
 
       <Footer />
